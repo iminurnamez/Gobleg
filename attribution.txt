@@ -1,0 +1,39 @@
+Licenses
+
+CC0            https://creativecommons.org/publicdomain/zero/1.0/legalcode
+CC BY 3.0    http://creativecommons.org/licenses/by/3.0/legalcode
+
+
+SOUNDS
+
+key sounds
+Source: http://freesound.org/people/monotraum/sounds/145534/
+Author: http://freesound.org/people/monotraum/
+License: CC0
+
+
+typewriter-bell.ogg
+Source: http://freesound.org/people/ramsamba/sounds/318687/
+Authro: http://freesound.org/people/ramsamba/
+License: CC0
+
+
+MUSIC
+
+puzzle-1-a, puzzle-1-b
+Source: http://opengameart.org/content/puzzle-tune-1
+Author:  http://rezoner.tumblr.com/ http://opengameart.org/users/rezoner
+License CC BY 3.0
+
+GRAPHICS
+
+Letter tiles
+Source: http://kenney.nl/assets/letter-tiles
+Author: http://kenney.nl
+License: CC0
+
+hourglass images
+Source: http://www.clker.com/clipart-hourglass-2.html
+Author: http://www.clker.com/profile-1068.html
+License: Public Domain
+
